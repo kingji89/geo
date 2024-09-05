@@ -1,0 +1,27 @@
+# Copyright (C) 2023 Your Name
+# This file is distributed under the same license as the Geo-Based Employee Clock In/Out plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Geo-Based Employee Clock In/Out 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/geo-based-employee-clock\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-31T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: geo-based-employee-clock\n"
+
+#: public/partials/geo-clock-public-display.php:2
+msgid "Employee Clock In/Out"
+msgstr ""
+
+#: public/partials/geo-clock-public-display.php:4
+msgid "Clock In"
+msgstr ""
+
+#: public/partials/geo-clock-public-display.php:7
+msgid "Please log in to use the clock in/out system."
+msgstr ""
